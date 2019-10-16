@@ -1,0 +1,14 @@
+{
+    "name": "frizz925/php-annotations",
+    "description": "Simple library to parse PHP annotations",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Izra Faturrahman",
+            "email": "Frizz925@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
